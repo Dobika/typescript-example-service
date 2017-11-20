@@ -1,5 +1,5 @@
 {
-  "name": "demo-typescript-1backend-service",
+  "name": "example",
   "version": "0.0.1",
   "description": "Typescript example for 1backend",
   "main": "./lib/index.js",
