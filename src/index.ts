@@ -1,5 +1,7 @@
-import * as express from 'express';
+import { Injectable } from '@angular/core';
 
-export function Hi(req: express.Request, rsp: express.Response) {
-    rsp.send("Hi, this is coming from the example typescript service.")
+@Injectable()
+export class UserService {
+  test = 3;
+  constructor() {}
 }

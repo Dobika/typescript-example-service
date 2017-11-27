@@ -1,7 +1,7 @@
 {
-  "name": "1backend-typescript-example-service",
+  "name": "david-test-xd-xd",
   "version": "0.0.1",
-  "description": "Minimal TypeScript example service for 1backend",
+  "description": "David test xd",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "scripts": {
@@ -11,10 +11,9 @@
   "keywords": ["typescript", "node"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/1backend/typescript-example-service.git"
+    "url": "https://github.com/dobika/typescript-example-service.git"
   },
   "dependencies": {
-    "express": "^4.13.3",
-    "@types/express": "^4.0"
+    "@angular/core": "5.0.0"
   }
 }
